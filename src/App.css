@@ -43,3 +43,16 @@ button {
   max-width: 450px;
   height: 30%;
 }
+
+.fml {
+  height: 30%;
+  font-size: small;
+  text-align: right;
+}
+
+.cal {
+  height: 50%;
+  font-size: 2em;
+  font-weight: 700;
+  text-align: right;
+}
